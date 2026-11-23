@@ -66,28 +66,25 @@ class OnboardingPage extends StatelessWidget {
                   PageViewModel(
                     title: 'onboarding_title_1'.tr(),
                     body: 'onboarding_body_1'.tr(),
-                    image: Icon(
-                      Icons.shopping_bag_outlined,
-                      size: 130,
-                      color: colors.primary,
+                    image: onboardingImage(
+                      'assets/images/onboarding/discover.jpg',
+                      colors,
                     ),
                   ),
                   PageViewModel(
                     title: 'onboarding_title_2'.tr(),
                     body: 'onboarding_body_2'.tr(),
-                    image: Icon(
-                      Icons.favorite_border,
-                      size: 130,
-                      color: colors.primary,
+                    image: onboardingImage(
+                      'assets/images/onboarding/favorites.jpg',
+                      colors,
                     ),
                   ),
                   PageViewModel(
                     title: 'onboarding_title_3'.tr(),
                     body: 'onboarding_body_3'.tr(),
-                    image: Icon(
-                      Icons.local_shipping_outlined,
-                      size: 130,
-                      color: colors.primary,
+                    image: onboardingImage(
+                      'assets/images/onboarding/delivery.jpg',
+                      colors,
                     ),
                   ),
                 ],
@@ -118,6 +115,26 @@ class OnboardingPage extends StatelessWidget {
               ),
             ),
           ],
+        ),
+      ),
+    );
+  }
+
+  Widget onboardingImage(String imagePath, ColorScheme colors) {
+    return Container(
+      width: 230,
+      height: 230,
+      padding: const EdgeInsets.all(8),
+      decoration: BoxDecoration(
+        shape: BoxShape.circle,
+        color: colors.secondary.withValues(alpha: 0.35),
+      ),
+      child: ClipOval(
+        child: Image.asset(
+          imagePath,
+          width: 214,
+          height: 214,
+          fit: BoxFit.cover,
         ),
       ),
     );
