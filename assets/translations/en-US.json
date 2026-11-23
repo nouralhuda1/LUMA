@@ -1,0 +1,38 @@
+{
+  "app_name": "Luma",
+  "onboarding_title_1": "Shop Easily",
+  "onboarding_body_1": "Discover products you love in one place.",
+  "onboarding_title_2": "Find Your Favorites",
+  "onboarding_body_2": "Explore a collection of carefully selected products.",
+  "onboarding_title_3": "Enjoy Shopping",
+  "onboarding_body_3": "A simple and comfortable shopping experience.",
+  "skip": "Skip",
+  "done": "Done",
+  "welcome": "Welcome Back!",
+  "login_subtitle": "Log in to continue",
+  "email": "Email",
+  "password": "Password",
+  "login": "Log In",
+  "no_account": "Don't have an account? Sign up",
+  "create_account": "Create Account",
+  "join_store": "Join Luma Store",
+  "full_name": "Full Name",
+  "discover_products": "Discover Products",
+  "discover_subtitle": "Find something you love.",
+
+  "product_watch": "Classic Watch",
+  "product_watch_desc": "A stylish classic watch for everyday use.",
+
+  "product_headphones": "Headphones",
+  "product_headphones_desc": "Comfortable headphones with clear sound.",
+
+  "product_handbag": "Handbag",
+  "product_handbag_desc": "An elegant handbag for everyday outfits.",
+
+  "product_sneakers": "Sneakers",
+  "product_sneakers_desc": "Comfortable sneakers for daily activities.",
+  "product_details": "Product Details",
+  "description": "Description",
+  "add_to_cart": "Add to Cart",
+  "added_to_cart": "Product added to cart!"
+}

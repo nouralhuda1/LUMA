@@ -1,0 +1,38 @@
+{
+  "app_name": "لوما",
+  "onboarding_title_1": "تسوق بسهولة",
+  "onboarding_body_1": "اكتشف المنتجات التي تحبها في مكان واحد.",
+  "onboarding_title_2": "اكتشف مفضلاتك",
+  "onboarding_body_2": "استكشف مجموعة مختارة بعناية من المنتجات.",
+  "onboarding_title_3": "استمتع بالتسوق",
+  "onboarding_body_3": "تجربة تسوق بسيطة ومريحة.",
+  "skip": "تخطي",
+  "done": "ابدأ",
+  "welcome": "مرحباً بعودتك!",
+  "login_subtitle": "سجل الدخول للمتابعة",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "login": "تسجيل الدخول",
+  "no_account": "ليس لديك حساب؟ إنشاء حساب",
+  "create_account": "إنشاء حساب",
+  "join_store": "انضم إلى متجر لوما",
+  "full_name": "الاسم الكامل",
+  "discover_products": "اكتشف المنتجات",
+  "discover_subtitle": "اعثر على شيء يعجبك.",
+
+  "product_watch": "ساعة كلاسيكية",
+  "product_watch_desc": "ساعة أنيقة بتصميم كلاسيكي للاستخدام اليومي.",
+
+  "product_headphones": "سماعات رأس",
+  "product_headphones_desc": "سماعات مريحة بصوت واضح ونقي.",
+
+  "product_handbag": "حقيبة يد",
+  "product_handbag_desc": "حقيبة يد أنيقة تناسب إطلالاتك اليومية.",
+
+  "product_sneakers": "حذاء رياضي",
+  "product_sneakers_desc": "حذاء رياضي مريح للأنشطة اليومية.",
+  "product_details": "تفاصيل المنتج",
+  "description": "الوصف",
+  "add_to_cart": "أضف إلى السلة",
+  "added_to_cart": "تمت إضافة المنتج إلى السلة!"
+}
